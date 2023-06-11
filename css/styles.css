@@ -718,23 +718,21 @@ gap: 16px;
 .modal-checkbox {
     margin-top: 8px;
     margin-bottom: 24px;
+}
+
+.modal-label-checkbox {
     font-weight: 400;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
-    color: #8E8F99
-}
-
-.modal-label-checkbox {
-    display: flex;
-    align-items: center;
-    gap: 8px;
+    color: var(--customers-color);
 }
 
 .icon-label-checkbox {
     display: inline-flex;
     justify-content: center;
     align-items: center;
+    margin-right: 8px;
     width: 16px;
     height: 16px;
     border: 1px solid rgba(46, 47, 66, 0.4);
