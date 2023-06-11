@@ -681,7 +681,7 @@ gap: 16px;
     border-color: var(--soc-icon-bcg);
 }
 
-.modal-input:focus + .madal-input-icon {
+.modal-input:focus + .modal-input-icon {
     fill: var(--soc-icon-bcg);
 }
 
